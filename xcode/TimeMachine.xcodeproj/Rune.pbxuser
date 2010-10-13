@@ -1,0 +1,116 @@
+// !$*UTF8*$!
+{
+	00BAE6590E7ED9C10018A608 /* TimeMachineApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 560}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{0, 546}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A56479441266041500341458 /* TimeMachine */;
+		activeTarget = 8D1107260486CEB800E47090 /* TimeMachine */;
+		codeSenseManager = A564796C1266042700341458 /* Code sense */;
+		executables = (
+			A56479441266041500341458 /* TimeMachine */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308676665;
+			PBXWorkspaceStateSaveDate = 308676665;
+		};
+		perUserProjectItems = {
+			A5647980126606D100341458 = A5647980126606D100341458 /* PBXBookmark */;
+			A5647981126606D100341458 = A5647981126606D100341458 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A564796B1266042700341458 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* TimeMachine */ = {
+		activeExec = 0;
+		executables = (
+			A56479441266041500341458 /* TimeMachine */,
+		);
+	};
+	A56479441266041500341458 /* TimeMachine */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TimeMachine;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A564796B1266042700341458 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A564796C1266042700341458 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A5647980126606D100341458 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* TimeMachineApp.cpp */;
+	};
+	A5647981126606D100341458 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* TimeMachineApp.cpp */;
+		name = "TimeMachineApp.cpp: 19";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 0;
+	};
+}
